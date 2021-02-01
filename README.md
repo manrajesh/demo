@@ -2,7 +2,7 @@
 
 ### Tools 
 
-* Gradle, Spring Boot, JPA, H2, Swagger2
+* Gradle, Spring Boot, JPA, H2, Swagger3
 ### Guides
 The following guides illustrate how to use the Employee API.
 
