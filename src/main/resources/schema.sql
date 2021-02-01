@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS Employee;
+
+CREATE TABLE Employee(EmployeeID BIGINT PRIMARY KEY AUTO_INCREMENT,
+    Employeename VARCHAR(100), Title VARCHAR(100), Businessunit VARCHAR(100),
+    Place VARCHAR(100), SupervisorID BIGINT, Competencies VARCHAR(1000), Salary VARCHAR(100));
